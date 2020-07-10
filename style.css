@@ -79,10 +79,11 @@
 }
 
 
-  ul {display: block;
-     color: #39E8D8;
-     background-color: #25EEDC;
-  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
   /* Enable scrolling if the sidenav has too much content */
 
 
