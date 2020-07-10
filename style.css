@@ -1,0 +1,114 @@
+
+  a {
+
+  color:white;
+
+
+}
+  h1 {
+  /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 15px;
+
+    margin: center;
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 20px;
+    /* This will color the heading font white. */
+    color: #2B2E31;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: center;
+    /* Underline the text. */
+
+    /* The background of the heading element will now be black. */
+}
+  p {text-align: center; margin-left: auto;
+    margin-right: auto;font-size:26; color: #172026; padding: 20px;
+  }
+
+
+  .box-set {
+    position: center;
+    height: 30px;
+    background-color: green;
+    margin: center;
+  }
+
+  .box {
+    /* relative positioning */
+    position: center;
+    width: auto;
+    height: 100px;
+    bottom: 400px;
+    background: blue;
+    color: white;
+    margin: center;
+}
+
+  .box-1 {
+    position: center;
+    width: auto;
+    height: 50px;
+    bottom: auto;
+    background: teal;
+    color: gray;
+    margin: margin-left;
+  }
+  .box-2 {
+    top: auto;
+    bottom: 400px;
+    height: 200px;
+    font-size: 24;
+    width: auto;
+    position: center;
+
+    text-align: center;
+    color: black;
+    background-color: #BDB6B4;
+    border-style:groove; border-color: darkgray;
+  }
+
+  .box-3 {
+
+
+    height: 20px;
+    bottom: 20px;
+    background-color: brown;
+    margin: 10px;
+    padding: 0px;
+    color: teal;
+
+}
+
+
+  ul {display: block;
+     color: #39E8D8;
+     background-color: #25EEDC;
+  }
+  /* Enable scrolling if the sidenav has too much content */
+
+
+li {float: left;
+  color:white;
+}
+
+.container-fluid{padding: auto;}
+
+.center{
+    display:  block;
+    margin-left:  0px;
+    margin-right: 3000px;
+    width: 100%;
+}
+
+.dropdown {color: #505851; display: inline-grid; box-shadow: 5px 5px 5px teal; padding-left: 20px;
+
+}
+
+.panel1{
+  position: margin-left;
+  border-color: teal;
+  margin-left: 65px;
+  top: 10px;
+  display: flex;
+}
+
+.p1{margin-left: 75px;}
