@@ -103,7 +103,7 @@ li {float: left;
 
 .center2{
   display: block;
-  margin-left: auto;
+  margin-left: 1000px;
   margin-right: auto;
 }
 
