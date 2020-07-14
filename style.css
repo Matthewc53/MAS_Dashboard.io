@@ -95,8 +95,8 @@ li {float: left;
 .container-fluid{padding: auto;}
 
 .center{
-    display:  auto;
-    margin-left:  1000px;
+    display:  block;
+    margin-left:  2000px;
     margin-right: 2000px;
     width:75%;
 }
