@@ -96,8 +96,8 @@ li {float: left;
 
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0px;
+  margin-right: 300px;
   width: 80%;
 }
 
