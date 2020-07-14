@@ -96,8 +96,9 @@ li {float: left;
 
 .center{
     display:  auto;
-    margin-left:  auto;
-    margin-right: auto;
+    margin-left:  0px;
+    margin-right: 0px;
+    width:75%;
 }
 
 .dropdown {color: #505851; display: inline-grid; box-shadow: 5px 5px 5px teal; padding-left: 20px;
