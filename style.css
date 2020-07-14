@@ -101,6 +101,14 @@ li {float: left;
   width: 100%;
 }
 
+.center2{
+  display: block;
+  margin-left: 0px;
+  margin-right: 400px;
+  width: 40%;
+}
+
+
 .dropdown {color: #505851; display: inline-grid; box-shadow: 5px 5px 5px teal; padding-left: 20px;
 
 }
