@@ -102,7 +102,7 @@ li {float: left;
 }
 
 .center2{
-  display: block;
+  display: inline;
   margin-left: 0px;
   margin-right: 0px;
   width: 40%;
