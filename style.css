@@ -83,7 +83,6 @@
 
      list-style-type: lower-greek;
      color: black;
-     display:block;
      background-color: #25EEDC;
   }
   /* Enable scrolling if the sidenav has too much content */
@@ -91,6 +90,8 @@
 
 li {float: left;
   color:brown;
+  display:block;
+
 }
 
 .container-fluid{padding: auto;}
