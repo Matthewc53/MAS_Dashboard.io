@@ -88,7 +88,7 @@
   /* Enable scrolling if the sidenav has too much content */
 
 
-li {float: left;
+li {
   color:brown;
   display:block;
 
