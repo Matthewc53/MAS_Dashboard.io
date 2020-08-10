@@ -84,6 +84,8 @@
      list-style-type: lower-greek;
      color: black;
      background-color: #25EEDC;
+     display:block;
+
   }
   /* Enable scrolling if the sidenav has too much content */
 
