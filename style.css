@@ -78,10 +78,11 @@
 
 }
 
-  t1 {
-  font-family: Copperplate, fantasy;
+  .t1 {
+  font-family: Copperplate,fantasy;
   font-size: 24;
-  }
+
+}
 
 
   ul {
