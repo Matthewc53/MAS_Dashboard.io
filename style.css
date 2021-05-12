@@ -21,7 +21,7 @@
     /* The background of the heading element will now be black. */
 }
   p {text-align: center; margin-left: auto;
-    font-family: 'Times New Romnan', 'Serif'
+    font-family: 'Times New Romnan', Serif;
     margin-right: auto;font-size:26; color: #172026; padding: 20px;
   }
 
